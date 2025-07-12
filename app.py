@@ -1,8 +1,5 @@
 import streamlit as st
 
-st.write("Hello, *World!* :sunglasses:")
-import streamlit as st
-
 st.markdown("*Streamlit* is **really** ***cool***.")
 st.markdown('''
     :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
